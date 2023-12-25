@@ -1,4 +1,4 @@
-#include "Q1.h"
+#include "lib\Q6.h"
 
 int main(void)
 {
